@@ -1,6 +1,5 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Helisy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%E2%80%A2%20C%20%26%20Lua&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Helisy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%E2%80%A2%20C%20%E2%80%A2%20Lua&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
@@ -80,16 +79,16 @@ int main(void) {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Helisy420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helisy420&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Helisy420&theme=tokyonight" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Helisy420&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Helisy420&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Helisy420&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Helisy420&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 <p align="center">
